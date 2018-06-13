@@ -1,2 +1,3 @@
 # hello-world
-Getting started
+Getting started .. 
+GitHub features and commands on the go!
